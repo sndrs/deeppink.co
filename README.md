@@ -1,1 +1,1 @@
-# console.error.limited
+console.error Ltd
