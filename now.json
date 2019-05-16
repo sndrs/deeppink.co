@@ -1,0 +1,6 @@
+{
+	"name": "console-error-limited",
+	"version": 2,
+	"alias": ["console.error.limited"],
+	"builds": [{ "src": "index.html", "use": "@now/static" }]
+}
