@@ -1,6 +1,6 @@
 {
-	"name": "console-error-limited",
+	"name": "deeppink",
 	"version": 2,
-	"alias": ["console.error.limited"],
+	"alias": ["deeppink.co"],
 	"builds": [{ "src": "index.html", "use": "@now/static" }]
 }
