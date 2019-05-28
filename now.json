@@ -1,5 +1,5 @@
 {
-	"name": "deeppink",
+	"name": "deeppink.co",
 	"version": 2,
 	"alias": ["deeppink.co"],
 	"builds": [{ "src": "index.html", "use": "@now/static" }]
